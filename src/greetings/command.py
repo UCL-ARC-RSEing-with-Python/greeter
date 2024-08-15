@@ -1,5 +1,5 @@
 from argparse import ArgumentParser
-from .greeter import greet
+from greetings.greeter import greet
 
 
 def process():
